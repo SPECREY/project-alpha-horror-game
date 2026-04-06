@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Project_Alpha\\Intermediate\\Source\\Project_Alpha.Build.cs",
+		"C:\\Project_Alpha\\Intermediate\\Source\\Project_Alpha.Target.cs",
+		"C:\\Project_Alpha\\Intermediate\\Source\\Project_AlphaClient.Target.cs",
+		"C:\\Project_Alpha\\Intermediate\\Source\\Project_AlphaEditor.Target.cs",
+		"C:\\Project_Alpha\\Intermediate\\Source\\Project_AlphaServer.Target.cs"
+	],
+	"EngineVersion": "5.6.1"
+}
